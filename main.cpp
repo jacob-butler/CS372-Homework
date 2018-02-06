@@ -12,5 +12,5 @@
 
 int main()
 {
-	std::cout << "This text if for the initial git commit" << std::endl;
+	std::cout << "This text has been edited from the web interface" << std::endl;
 }
