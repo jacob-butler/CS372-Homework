@@ -12,5 +12,5 @@
 
 int main()
 {
-	std::cout << "This text has been edited from the web interface" << std::endl;
+	std::cout << "This text has been edited from the local repo on my laptop" << std::endl;
 }
